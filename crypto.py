@@ -4,8 +4,8 @@ import requests
 import time
 
 # Clé API CoinAPI
-#API_KEY = "F11A11C0-1256-79C5-79C1-5D4E7613AACB"
-API_KEY = "AD60295D-93A3-49FE-AA49-9B13793CA3BC"
+#API_KEY = ""
+API_KEY = ""
 
 # Fonction pour vérifier si le seuil est dépassé
 def check_threshold():
